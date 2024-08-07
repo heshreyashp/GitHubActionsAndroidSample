@@ -1,4 +1,4 @@
-name: Production Builds
+name: SP Production Builds
 on:
   workflow_dispatch:
     inputs:
